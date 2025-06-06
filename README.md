@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Mtzaev
 
-<!--
-**Mtzaev/Mtzaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MBA in Finance & AI | 📍 Seoul, South Korea  
+💻 Python • Data Analysis • Automation  
+🌱 Currently learning: LangChain, FastAPI , PostgreSQL
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 What I'm Working On
+- Building automation tools with Python
+- Creating AI-driven finance apps
+- Growing my portfolio step-by-step
+
+---
+
+### 📌 Projects
+Soon you’ll see:
+- 🤖 Telegram AI Chatbot
+- 📊 Stock Analysis App
+- 🧾 Study Note Generator
+
+---
+
+### 📬 Reach Me
+- Telegram: [@mtzaevs](https://t.me/mtzaevs)  
+- Email: mtzaev@example.com 
+
+---
+> _"Keep it simple. Keep it smart. Keep it shipping."_ 🚀
